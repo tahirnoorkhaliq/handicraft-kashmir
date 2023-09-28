@@ -4,15 +4,6 @@ import { Routes, Route ,Navigate} from "react-router-dom";
 import Navigation from "./routes/navigation/navigation.component";
 import Authentication from "./routes/authentication/authenticarion.component";
 
-const Shop = () => {
-  return (
-    <div>
-      <div>
-        <h1>Shopping</h1>
-      </div>
-    </div>
-  );
-};
 const ContactUs = () => {
   return (
     <div>
